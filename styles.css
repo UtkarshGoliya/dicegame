@@ -1,0 +1,26 @@
+h1 {
+  font-family: "Lobster", cursive;
+  font-size: 110px;
+  color: cyan;
+  margin: 20px;
+}
+p {
+  font-family: "Indie Flower", cursive;
+  font-size: 36px;
+  color: aquamarine;
+}
+body {
+  background-color: cadetblue;
+}
+.container {
+  text-align: center;
+  margin: auto;
+  width: 60%;
+}
+img {
+  width: 80%;
+}
+.dice {
+  display: inline-block;
+  text-align: center;
+}
